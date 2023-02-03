@@ -1,3 +1,3 @@
 # Blog
 
-I post my artist progress here!
+I post my artist progress here! :)
