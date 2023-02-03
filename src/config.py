@@ -14,5 +14,5 @@ twitter_name = "@randotwino"
 home_name = "Home"
 see_all = "Voir +"
 go_back = "Retour vers"
-date_format = "ISO"  # Choose between EU day-month-year or ISO year-mont-day
+date_format = "EU"  # Choose between EU day-month-year or ISO year-mont-day
 flat_build = True # True or False, if True, all files will be written in the root of the website
